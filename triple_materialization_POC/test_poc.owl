@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://www.semanticweb.org/test/poc/"
+         xmlns="http://www.semanticweb.org/test/poc/">
+
+<owl:Ontology rdf:about="http://www.semanticweb.org/test/poc">
+  <owl:versionIRI rdf:resource="http://www.semanticweb.org/test/poc"/>
+</owl:Ontology>
+
+<owl:ObjectProperty rdf:about="collected_for">
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+</owl:ObjectProperty>
+
+<owl:Class rdf:about="annonymized_data">
+  <rdfs:subClassOf rdf:resource="data"/>
+</owl:Class>
+
+<owl:Class rdf:about="data">
+  <rdfs:subClassOf rdf:resource="subject"/>
+</owl:Class>
+
+<owl:Class rdf:about="biospecimens">
+  <rdfs:subClassOf rdf:resource="subject"/>
+</owl:Class>
+
+<owl:Class rdf:about="subject">
+  <rdfs:subClassOf>
+    <owl:Restriction>
+      <owl:onProperty rdf:resource="collected_for"/>
+      <owl:someValuesFrom rdf:resource="purpose"/>
+    </owl:Restriction>
+  </rdfs:subClassOf>
+</owl:Class>
+
+<owl:Class rdf:about="blood">
+  <rdfs:subClassOf rdf:resource="biospecimens"/>
+</owl:Class>
+
+<owl:Class rdf:about="broad_use">
+  <rdfs:subClassOf rdf:resource="purpose"/>
+</owl:Class>
+
+<owl:Class rdf:about="purpose"/>
+
+<owl:Class rdf:about="genetic_research">
+  <rdfs:subClassOf rdf:resource="purpose"/>
+</owl:Class>
+
+<owl:Class rdf:about="hair">
+  <rdfs:subClassOf rdf:resource="biospecimens"/>
+</owl:Class>
+
+<owl:Class rdf:about="personally_identifiable_data">
+  <rdfs:subClassOf rdf:resource="data"/>
+</owl:Class>
+
+<owl:Class rdf:about="solids">
+  <rdfs:subClassOf rdf:resource="biospecimens"/>
+</owl:Class>
+
+<owl:Class rdf:about="specific_use">
+  <rdfs:subClassOf rdf:resource="purpose"/>
+</owl:Class>
+
+<owl:Class rdf:about="wastes">
+  <rdfs:subClassOf rdf:resource="biospecimens"/>
+</owl:Class>
+
+<personally_identifiable_data rdf:about="PersonalData">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</personally_identifiable_data>
+
+<broad_use rdf:about="FutureResearch">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</broad_use>
+
+<data rdf:about="LinkedData">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</data>
+
+<specific_use rdf:about="ThisStudy">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</specific_use>
+
+<hair rdf:about="Hair">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</hair>
+
+<broad_use rdf:about="DecadesToCome">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</broad_use>
+
+<biospecimens rdf:about="BloodSerum">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</biospecimens>
+
+<specific_use rdf:about="ThisStudyOnly">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</specific_use>
+
+<data rdf:about="GeneticData">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</data>
+
+<genetic_research rdf:about="GeneticStudies">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</genetic_research>
+
+
+</rdf:RDF>

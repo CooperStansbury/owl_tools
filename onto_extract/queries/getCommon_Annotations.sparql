@@ -1,0 +1,12 @@
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+
+SELECT DISTINCT ?entity ?elabel ?definition (sample(?source) as ?source) (sample(?note) as ?note)
+WHERE {
+  ?entity rdfs:label ?elabel .
+  ?entity obo:IAO_0000115 ?definition .
+  OPTIONAL { ?entity obo:IAO_0000116 ?note }
+  OPTIONAL { ?entity obo:IAO_0000119 ?source }
+} GROUP BY ?entity ?elabel ?definition

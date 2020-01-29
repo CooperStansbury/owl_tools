@@ -1,0 +1,12 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+
+SELECT ?label ?purl ?definition
+WHERE {
+  ?purl a owl:Class.
+  ?purl rdfs:label ?label.
+  ?purl obo:IAO_0000115 ?definition.
+
+  FILTER (regex(str(?label), "^obsolete"))
+}
