@@ -1,0 +1,4 @@
+id,to,type,weight
+psdo.psdo_0000062,psdo.psdo_0000006,BearerOf,1.0
+psdo.psdo_0000060,psdo.psdo_0000062,InheresIn,1.0
+psdo.psdo_0000008,psdo.psdo_0000060,ConcretizedBy,1.0

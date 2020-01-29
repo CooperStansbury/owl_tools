@@ -1,0 +1,361 @@
+id,label,parent.purl,entity.weight,entity.type
+obo.IAO_0021001,deontic document act,IAO,0.14285714285714285,obo.BFO_0000003
+obo.BFO_0000002,continuant,BFO,0.5,obo.BFO_0000002
+obo.BFO_0000003,occurrent,BFO,0.5,obo.BFO_0000003
+obo.BFO_0000004,independent continuant,BFO,0.3333333333333333,obo.BFO_0000002
+obo.BFO_0000006,spatial region,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000008,temporal region,BFO,0.3333333333333333,obo.BFO_0000003
+obo.BFO_0000009,two-dimensional spatial region,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000011,spatiotemporal region,BFO,0.3333333333333333,obo.BFO_0000003
+obo.BFO_0000015,process,BFO,0.3333333333333333,obo.BFO_0000003
+obo.BFO_0000016,disposition,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000017,realizable entity,BFO,0.25,obo.BFO_0000002
+obo.BFO_0000018,zero-dimensional spatial region,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000019,quality,BFO,0.25,obo.BFO_0000002
+obo.BFO_0000020,specifically dependent continuant,BFO,0.3333333333333333,obo.BFO_0000002
+obo.BFO_0000023,role,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000024,fiat object part,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000026,one-dimensional spatial region,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000027,object aggregate,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000028,three-dimensional spatial region,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000029,site,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000030,object,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000031,generically dependent continuant,BFO,0.3333333333333333,obo.BFO_0000002
+obo.BFO_0000034,function,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000035,process boundary,BFO,0.3333333333333333,obo.BFO_0000003
+obo.BFO_0000038,one-dimensional temporal region,BFO,0.25,obo.BFO_0000003
+obo.BFO_0000040,material entity,BFO,0.25,obo.BFO_0000002
+obo.BFO_0000140,continuant fiat boundary,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000141,immaterial entity,BFO,0.25,obo.BFO_0000002
+obo.BFO_0000142,one-dimensional continuant fiat boundary,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000144,process profile,BFO,0.25,obo.BFO_0000003
+obo.BFO_0000145,relational quality,BFO,0.2,obo.BFO_0000002
+obo.BFO_0000146,two-dimensional continuant fiat boundary,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000147,zero-dimensional continuant fiat boundary,BFO,0.16666666666666666,obo.BFO_0000002
+obo.BFO_0000148,zero-dimensional temporal region,BFO,0.25,obo.BFO_0000003
+obo.BFO_0000182,history,BFO,0.25,obo.BFO_0000003
+obo.FMA_49443,Anatomical cluster,FMA,0.14285714285714285,obo.BFO_0000002
+obo.FMA_55457,vocal fold,FMA,0.1,obo.BFO_0000002
+obo.FMA_64854,Subdivision of larynx,FMA,0.1111111111111111,obo.BFO_0000002
+obo.FMA_64989,Heterogeneous cluster,FMA,0.125,obo.BFO_0000002
+obo.FMA_67135,Anatomical structure,FMA,0.16666666666666666,obo.BFO_0000002
+obo.FMA_67165,Material anatomical entity,FMA,0.2,obo.BFO_0000002
+obo.GAZ_00000448,geographic location,GAZ,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000001,conditional specification,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000003,measurement unit label,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000005,objective specification,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000006,narrative object,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000007,action specification,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000009,datum label,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000010,software,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000013,journal article,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000015,information carrier,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000017,model number,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000025,programming language,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000027,data item,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000028,symbol,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000029,numeral,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000030,information content entity,IAO,0.25,obo.BFO_0000002
+obo.IAO_0000031,integer numeral,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000032,scalar measurement datum,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000033,directive information entity,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000034,time trigger,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000037,dot plot,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000038,graph,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000055,rule,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000057,contour plot,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000064,algorithm,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000065,software interpreter,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000078,curation status specification,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000079,density plot,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000088,report,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000096,source code module,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000098,data format specification,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000100,data set,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000101,image,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000102,data about an ontology part,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000104,plan specification,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000109,measurement datum,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000129,version number,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000131,serial number,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000132,lot number,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000140,setting datum,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000144,conclusion textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000178,material information bearer,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000179,histogram,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000180,heatmap,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000181,Venn diagram,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000183,dendrogram,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000184,scatter plot,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000185,photograph,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000186,photographic print,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000225,obsolescence reason specification,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000300,textual entity,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000301,citation,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000302,author identification,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000303,institutional identification,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000304,caption,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000305,document title,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000306,table,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000307,table of abbreviations,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000308,figure,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000309,diagram,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000310,document,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000311,publication,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000312,publication about an investigation,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000313,patent,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000314,document part,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000315,abstract,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000316,introduction to a publication about an investigation,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000317,methods section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000318,results section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000319,discussion section of a publication about an investigation,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000320,references section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000321,author list,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000322,institution list,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000323,author contributions section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000324,acknowledgements section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000325,footnote,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000326,supplementary material to a document,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000327,table of contents,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000328,table of figures,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000329,running title,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000330,copyright section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000400,cartesian spatial coordinate datum,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000401,one dimensional cartesian spatial coordinate datum,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000402,two dimensional cartesian spatial coordinate datum,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000403,three dimensional cartesian spatial coordinate datum,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000408,length measurement datum,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000409,denotator type,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000414,mass measurement datum,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000415,hypothesis textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000416,time measurement datum,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000422,postal address,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000429,email address,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000442,author role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000443,data item extraction from journal article,IAO,0.2,obo.BFO_0000003
+obo.IAO_0000572,documenting,IAO,0.2,obo.BFO_0000003
+obo.IAO_0000573,line graph,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000574,assigning a centrally registered identifier,IAO,0.2,obo.BFO_0000003
+obo.IAO_0000575,associating information with a centrally registered identifier in its registry,IAO,0.2,obo.BFO_0000003
+obo.IAO_0000577,centrally registered identifier symbol,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000578,centrally registered identifier,IAO,0.2,obo.BFO_0000002
+obo.IAO_0000579,centrally registered identifier registry,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000580,looking up a centrally registered identifier,IAO,0.2,obo.BFO_0000003
+obo.IAO_0000582,time stamped measurement datum,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000584,time sampled measurement data set,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0000590,written name,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000591,software method,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000592,software module,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000593,software library,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000594,software application,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000595,software script,IAO,0.125,obo.BFO_0000002
+obo.IAO_0000605,abbreviation textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000606,abbreviations section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000607,author information section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000608,author information textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000609,author summary section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000610,author summary textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000611,availability section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000612,availability textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000613,case report section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000614,case report textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000615,conclusion section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000616,conflict of interest section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000617,conflict of interest textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000618,consent section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000619,consent textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000620,ethical approval section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000621,ethical approval textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000622,figures section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000623,funding source declaration section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000624,funding source declaration textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000625,future directions section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000626,future directions textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000627,genome announcement section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000628,genome announcement textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000629,keyword textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000630,keywords section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000631,study limitations section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000632,study limitations textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000633,materials section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000634,notes section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000635,patients section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000636,patients textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000637,pre-publication history section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000638,pre-publication history textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000639,related work section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000640,related work textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000641,requirements section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000642,requirements textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000643,statistical analysis textual entity,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000644,statistical analysis section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000645,tables section,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0000650,"database extract, transform, and load process",IAO,0.2,obo.BFO_0000003
+obo.IAO_0020000,identifier,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020001,grapheme,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020002,utterance,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020003,mechanical wave quality,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020004,writing quality,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020005,writing bearer,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0020006,portion of energy,IAO,0.25,obo.BFO_0000002
+obo.IAO_0020007,sound energy,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020008,utterance energy,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0020009,oscillating,IAO,0.25,obo.BFO_0000003
+obo.IAO_0020010,dubbing process,IAO,0.2,obo.BFO_0000003
+obo.IAO_0020011,utterance process,IAO,0.2,obo.BFO_0000003
+obo.IAO_0020015,personal name,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0020016,given name,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0020017,family name,IAO,0.14285714285714285,obo.BFO_0000002
+obo.IAO_0020022,documented identity,IAO,0.2,obo.BFO_0000002
+obo.IAO_0020023,authentication,IAO,0.25,obo.BFO_0000003
+obo.IAO_0020024,credential role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021003,social act,IAO,0.2,obo.BFO_0000003
+obo.IAO_0021006,obligee role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021007,document act input document,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021008,deontic role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021009,deontic declaration,IAO,0.16666666666666666,obo.BFO_0000003
+obo.IAO_0021021,document act template creator role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021022,deontic declaration performer role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021031,document act performer role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.IAO_0021102,standing declaration,IAO,0.16666666666666666,obo.BFO_0000003
+obo.IAO_0021300,obligor role,IAO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000001,informed consent form,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000003,validating an informed consent form,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000004,approving an informed consent form,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000008,description of participation risk,ICO,0.3333333333333333,CommonCoreOntologies.DescriptiveInformationContentEntity
+obo.ICO_0000009,recontact method directive,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000010,option to check,ICO,0.3333333333333333,obo.RUBRIC_0000016
+obo.ICO_0000014,informed consent form for human blood sample collection,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000015,signed informed consent form,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000022,temporal region identifier,ICO,0.2,obo.BFO_0000002
+obo.ICO_0000032,informed assent form for child or minor,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000033,informed consent form for qualitative research involving children,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000034,informed consent form for clinical research involving children,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000036,informed consent form signing date,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000037,project duration specification,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000038,project starting date specification,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000039,project end date specification,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000044,informed consent identification code,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000045,investigator role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000047,human population,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000048,nonprofit organization,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000049,profit organization,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000051,cancer research investigation,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000053,drug testing investigation,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000054,human research investigation,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000056,nonprofit research investigation,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000057,for-profit research investigation,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000058,investigation period,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000059,ethics directive,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000060,act of storing a specimen,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000065,clinical trial,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000066,clinical trial title,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000073,research subject role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000077,benefit,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000078,risk,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000079,institutional review board,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000080,research assistant role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000083,individually identifiable health information entity,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000084,informed consent process with assent,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000085,informed assent form,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000087,study duration measurement,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000088,participation duration,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000095,minimal risk,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000100,research-related injury,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000101,health information entity,ICO,0.2,obo.BFO_0000002
+obo.ICO_0000103,protected health information entity,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000107,study termination,ICO,0.25,obo.BFO_0000003
+obo.ICO_0000108,withdrawing participation in study,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000109,canceling a permission,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000110,standard medical treatment,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000111,review board approval number,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000112,data administration function,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000113,anonymized information content entity,ICO,0.2,obo.BFO_0000002
+obo.ICO_0000116,act of using participant data,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000118,repository of documents,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000123,act of storing signed informed consent form,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000131,institutional review board approval number,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000138,informed consent form for vaccination,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000140,eligibility questionnaire,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000141,question textual entity,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000145,postmortem donation of biological specimen,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000147,candidate eligible for study role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000148,candidate ineligible for study role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000149,act of contact for future research,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000150,eligibility screening process,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000151,eligibility screening role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000156,adult consent process,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000157,parental informed consent process,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000158,declining to provide consent,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000159,informed verbal consent,ICO,0.125,obo.BFO_0000003
+obo.ICO_0000160,consenting in short form,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000161,biological sample collecting,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000162,tissue sample collecting,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000163,blood sample collecting,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000171,filled multiple choice text entity,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000172,yes answer text entity,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000173,no answer text entity,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000177,consenting not to have financial benefit,ICO,0.125,obo.BFO_0000003
+obo.ICO_0000181,secondary use,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000185,informed assent form for cognitively impaired,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000187,legal representative role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000188,organization-specified contact role,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000189,contact directive,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000190,description of participation benefit,ICO,0.3333333333333333,CommonCoreOntologies.DescriptiveInformationContentEntity
+obo.ICO_0000192,description of broad consent,ICO,0.3333333333333333,CommonCoreOntologies.DescriptiveInformationContentEntity
+obo.ICO_0000193,act of filling out form,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000195,act of permitting,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000196,act of informed consenting,ICO,0.14285714285714285,obo.BFO_0000003
+obo.ICO_0000197,act of communicating assent,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000199,permission role,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000201,capability to consent,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000202,competency to consent,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000203,assenter role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.ICO_0000213,incomplete informed consent form,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000214,complete informed consent form indicating consent,ICO,0.125,obo.BFO_0000002
+obo.ICO_0000215,deontic power role,ICO,0.14285714285714285,obo.BFO_0000002
+obo.ICO_0000217,act of anonymizing,ICO,0.2,obo.BFO_0000003
+obo.ICO_0000218,act of removing identifiable information,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000220,agent,ICO,0.2,obo.BFO_0000002
+obo.ICO_0000221,act of informing,ICO,0.16666666666666666,obo.BFO_0000003
+obo.ICO_0000222,signature,ICO,0.2,obo.BFO_0000002
+obo.ICO_0000226,stasis of anonymization,ICO,0.3333333333333333,CommonCoreOntologies.StasisOfGenericallyDependentContinuant
+obo.NCBITaxon_9606,Homo sapiens,NCBITaxon,0.16666666666666666,obo.BFO_0000002
+obo.OBI_0000011,planned process,OBI,0.25,obo.BFO_0000003
+obo.OBI_0000066,investigation,OBI,0.2,obo.BFO_0000003
+obo.OBI_0000093,patient role,OBI,0.16666666666666666,obo.BFO_0000002
+obo.OBI_0000112,specimen role,OBI,0.16666666666666666,obo.BFO_0000002
+obo.OBI_0000245,organization,OBI,0.2,obo.BFO_0000002
+obo.OBI_0000471,study design execution,OBI,0.2,obo.BFO_0000003
+obo.OBI_0000810,informed consent process,OBI,0.2,obo.BFO_0000003
+obo.OBI_0001000,questionnaire,OBI,0.16666666666666666,obo.BFO_0000002
+obo.OBI_0001622,investigation title,OBI,0.16666666666666666,obo.BFO_0000002
+obo.OBI_0100026,organism,OBI,0.2,obo.BFO_0000002
+obo.OBI_0100051,specimen,OBI,0.2,obo.BFO_0000002
+obo.OBI_0500000,study design,OBI,0.14285714285714285,obo.BFO_0000002
+obo.OGMS_0000045,disorder,OGMS,0.2,obo.BFO_0000002
+obo.OGMS_0000090,treatment,OGMS,0.25,obo.BFO_0000003
+obo.OGMS_0000102,injury,OGMS,0.16666666666666666,obo.BFO_0000002
+obo.OMRSE_00000022,collection of organisms,OMRSE,0.2,obo.BFO_0000002
+obo.OMRSE_00000023,collection of humans,OMRSE,0.16666666666666666,obo.BFO_0000002
+obo.OMRSE_00000033,aggregate of organizations,OMRSE,0.2,obo.BFO_0000002
+obo.PATO_0000122,length,PATO,0.2,obo.BFO_0000002
+obo.PATO_0000125,mass,PATO,0.2,obo.BFO_0000002
+obo.UO_0000001,length unit,UO,0.14285714285714285,obo.BFO_0000002
+obo.UO_0000002,mass unit,UO,0.14285714285714285,obo.BFO_0000002
+obo.UO_0000003,time unit,UO,0.14285714285714285,obo.BFO_0000002
+merged_new_ico.http://purl.obolibrary.org/obo/OBI_0000181,population,OBI,0.2,obo.BFO_0000002
+ico.ICO_0000223,consent power role,ICO,0.125,obo.BFO_0000002
+ico.ICO_0037261,act of storing,ICO,0.2,obo.BFO_0000003
+ico.ICO_0037262,act of data sharing,ICO,0.2,obo.BFO_0000003
+ico.ICO_0561613,human subject-specified contact person role,ICO,0.14285714285714285,obo.BFO_0000002
+ico.ICO_0561614,contact person role,ICO,0.16666666666666666,obo.BFO_0000002
+obo.OMIABIS_0001026,medical record,OMIABIS,0.16666666666666666,obo.BFO_0000002
+PATO.PATO_0001025,pressure,PATO,0.2,obo.BFO_0000002
+resource.SIO_000184,legal name,SIO,0.125,obo.BFO_0000002
+oboInOwl.DbXref,oboInOwl.DbXref,oboInOwl,0.14285714285714285,obo.BFO_0000002
+oboInOwl.Definition,oboInOwl.Definition,oboInOwl,0.14285714285714285,obo.BFO_0000002
+oboInOwl.Subset,oboInOwl.Subset,oboInOwl,0.14285714285714285,obo.BFO_0000002
+oboInOwl.Synonym,oboInOwl.Synonym,oboInOwl,0.14285714285714285,obo.BFO_0000002
+oboInOwl.SynonymType,oboInOwl.SynonymType,oboInOwl,0.14285714285714285,obo.BFO_0000002

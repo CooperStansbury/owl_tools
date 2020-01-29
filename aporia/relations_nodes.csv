@@ -1,0 +1,5 @@
+id,label,parent.purl,entity.weight,entity.type
+psdo.psdo_0000008,relational information display component,psdo,0.2,information content entity
+psdo.psdo_0000062,mark,psdo,0.16666666666666666,material entity
+psdo.psdo_0000006,represented dimension,psdo,0.16666666666666666,role
+psdo.psdo_0000060,mark length,psdo,0.14285714285714285,quality

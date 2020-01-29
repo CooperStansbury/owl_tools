@@ -1,0 +1,15 @@
+id,to,type,weight
+obo.BFO_0000004,obo.BFO_0000002,SubClassOf,1.0
+obo.BFO_0000020,obo.BFO_0000002,SubClassOf,1.0
+obo.BFO_0000031,obo.BFO_0000002,SubClassOf,1.0
+obo.BFO_0000040,obo.BFO_0000004,SubClassOf,1.0
+obo.BFO_0000019,obo.BFO_0000020,SubClassOf,1.0
+obo.IAO_0000030,obo.BFO_0000031,SubClassOf,1.0
+obo.IAO_0000178,obo.BFO_0000040,SubClassOf,1.0
+psdo.psdo_0000062,obo.IAO_0000178,SubClassOf,1.0
+psdo.psdo_0000006,obo.BFO_0000023,SubClassOf,1.0
+psdo.psdo_0000060,psdo.psdo_0000061,SubClassOf,1.0
+psdo.psdo_0000008,obo.IAO_0000030,SubClassOf,1.0
+psdo.psdo_0000061,obo.BFO_0000019,SubClassOf,1.0
+obo.BFO_0000023,obo.BFO_0000017,SubClassOf,1.0
+obo.BFO_0000017,obo.BFO_0000020,SubClassOf,1.0
